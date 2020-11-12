@@ -2,4 +2,4 @@ numpy==1.15.0
 pandas==0.23.4
 streamlit==0.60.0
 xlrd==1.2.0
-sklearn==0.23.2
+scikit-learn==0.23.2
